@@ -31,8 +31,3 @@ output "fifth" {
   value     = "fifth_value"
   sensitive = false
 }
-
-output "sixth" {
-  value     = "sixth_value"
-  sensitive = true
-}
