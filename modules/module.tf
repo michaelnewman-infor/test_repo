@@ -26,3 +26,8 @@ output "fourth" {
   value     = "fourth_value"
   sensitive = false
 }
+
+output "fifth" {
+  value     = "fifth_value"
+  sensitive = false
+}
